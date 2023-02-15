@@ -270,3 +270,4 @@
     22. [lombok](https://projectlombok.org/api/)
 46. 技术文档
     1. [Java全栈知识体系](https://pdai.tech/md/resource/tools.html)
+    2. [开源书籍文档](https://www.bookstack.cn/cate)
