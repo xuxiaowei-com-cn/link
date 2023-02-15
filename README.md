@@ -104,9 +104,9 @@
 # 网址不定时更新
 
 1. [🔥 JetBrains IntelliJ IDEA 免费授权申请](https://www.jetbrains.com/shop/eform/opensource)
-   1. 一个开源项目
-   2. 存在开源协议
-   3. 连续维护三个月
+    1. 一个开源项目
+    2. 存在开源协议
+    3. 连续维护三个月
 2. [DLL下载](https://cn.dll-files.com/)
 3. 软件历史版本
     1. Maven 历史版本
@@ -131,6 +131,8 @@
     4. [极狐 GitLab，国内版 GitLab，jihulab](https://jihulab.com/)
     5. [gitcode](https://gitcode.net/)
     6. [确实开源 gitlink](https://www.gitlink.org.cn/)
+    7. [腾讯云 coding](https://coding.net/)
+    8. [阿里云 codeup](https://codeup.aliyun.com/)
 8. 网络授时NTP
     1. [阿里云-网络授时NTP](https://developer.aliyun.com/mirror/?serviceType=ntp)
 9. 镜像源
@@ -172,9 +174,9 @@
     8. [华中科技大学镜像](http://mirror.hust.edu.cn/)
     9. [龙蜥镜像](http://mirrors.openanolis.cn/)
 10. DNS
-     1. [阿里云公共DNS](https://www.alidns.com/)
-         1. [配置文档](https://www.alidns.com/knowledge?type=SETTING_DOCS)
-     2. [阿里巴巴 DNS 检测工具](https://help.aliyun.com/document_detail/155535.html)
+    1. [阿里云公共DNS](https://www.alidns.com/)
+        1. [配置文档](https://www.alidns.com/knowledge?type=SETTING_DOCS)
+    2. [阿里巴巴 DNS 检测工具](https://help.aliyun.com/document_detail/155535.html)
 11. [百度-开发者搜索](https://kaifa.baidu.com/)
 12. SSL(https)证书免费申请
     1. [阿里云SSL(https)证书免费申请](https://yundun.console.aliyun.com/?p=cas#/certExtend/buy)
