@@ -216,7 +216,7 @@
     1. [git 官方文档](http://git.github.io/htmldocs/)
     2. [gitcode文档](https://gitcode.host/progit2/)
 36. gitlab 文档
-    1. [gitlab官方文档，英文，可能需要梯子](https://docs.gitlab.com/)
+    1. [gitlab官方文档，英文](https://docs.gitlab.com/)
     2. [极狐gitlab文档，中文](https://docs.gitlab.cn/)
 37. 搜索 Maven 依赖的网站
     1. [https://mvnrepository.com](https://mvnrepository.com)
