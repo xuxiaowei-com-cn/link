@@ -264,3 +264,5 @@
     20. [spring-cloud-build](https://docs.spring.io/spring-cloud-build/docs/)
     21. [spring-cloud-kubernetes](https://docs.spring.io/spring-cloud-kubernetes/docs/)
     22. [lombok](https://projectlombok.org/api/)
+45. 技术文档
+    1. [Java全栈知识体系](https://pdai.tech/md/resource/tools.html)
