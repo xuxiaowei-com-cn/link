@@ -100,3 +100,167 @@
     <img alt="code style" src="https://img.shields.io/badge/license-Apache 2-blue">
   </a>
 </div>
+
+# 网址不定时更新
+
+1. [DLL下载](https://cn.dll-files.com/)
+2. 软件历史版本
+    1. Maven 历史版本
+        1. [说明](https://maven.apache.org/docs/history.html)
+        2. [下载](https://dlcdn.apache.org/maven/maven-3/)
+    2. [Visual Studio 历史版本下载](https://visualstudio.microsoft.com/zh-hans/vs/older-downloads/)
+    3. [Windows 版 MySQL 历史版本下载](https://downloads.mysql.com/archives/installer/)
+    4. [node 历史版本下载](https://nodejs.org/dist/)
+    5. [Visual C++ 运行库，需要登录微软账户](https://my.visualstudio.com/Downloads?q=Visual%20C++%20Redistributable)
+    6. [gpg4win](https://files.gpg4win.org/)
+    7. [python](https://www.python.org/ftp/python/)
+3. [Everything 极速搜索文件工具](https://www.voidtools.com/zh-cn/)
+4. [工业和信息化部政务服务平台 - ICP/IP地址/域名信息备案管理系统](https://beian.miit.gov.cn)
+5. 漏洞网站
+    1. [CVE 和 GitHub 的安全漏洞数据库 GitHub Advisory Database](https://github.com/advisories/)
+    2. [国家信息安全漏洞共享平台](https://www.cnvd.org.cn/)
+    3. [OSCS | 开源软件供应链安全社区 | 让每一个开源项目变得更安全](https://www.oscs1024.com/hl)
+6. Git 仓库
+    1. [github](https://github.com/)
+    2. [码云 gitee](https://gitee.com/)
+    3. [gitlab](https://gitlab.com/)
+    4. [极狐 GitLab，国内版 GitLab，jihulab](https://jihulab.com/)
+    5. [gitcode](https://gitcode.net/)
+    6. [确实开源 gitlink](https://www.gitlink.org.cn/)
+7. 网络授时NTP
+    1. [阿里云-网络授时NTP](https://developer.aliyun.com/mirror/?serviceType=ntp)
+8. 镜像源
+    1. [阿里巴巴开源镜像站-OPSX镜像站-阿里云开发者社区](https://developer.aliyun.com/mirror/)
+        1. [软件包](https://developer.aliyun.com/packageSearch)
+        2. [Ubuntu 镜像](https://developer.aliyun.com/mirror/ubuntu)
+        3. [CentOS 镜像](https://developer.aliyun.com/mirror/centos)
+        4. [Epel 镜像](https://developer.aliyun.com/mirror/epel)
+        5. [PyPI 镜像](https://developer.aliyun.com/mirror/pypi)
+        6. [Maven 镜像](https://developer.aliyun.com/mirror/maven)
+        7. [NPM 镜像](https://developer.aliyun.com/mirror/NPM)
+        8. [NodeJS 镜像](https://developer.aliyun.com/mirror/nodejs-release)
+        9. [MySQL 镜像](https://mirrors.aliyun.com/mysql/)
+        10. [域名解析DNS](https://developer.aliyun.com/mirror/?&serviceType=dns)
+        11. [MySQL镜像下载页](https://mirrors.aliyun.com/mysql/)
+    2. [腾讯软件源](https://mirrors.cloud.tencent.com/)
+        1. [gitlab-ce](https://mirrors.cloud.tencent.com/gitlab-ce/)
+            1. [说明](https://mirrors.cloud.tencent.com/help/gitlab-ce.html)
+        2. [gitlab-ee](https://mirrors.cloud.tencent.com/gitlab-ee/)
+        3. [gitlab-runner](https://mirrors.cloud.tencent.com/gitlab-runner/)
+            1. [说明](https://mirrors.cloud.tencent.com/help/gitlab-runner.html)
+        4. [gitlab-ci-multi-runner](https://mirrors.cloud.tencent.com/gitlab-ci-multi-runner/)
+            1. [说明](https://mirrors.cloud.tencent.com/help/gitlab-ci-multi-runner.html)
+        5. [docker-ce](https://mirrors.cloud.tencent.com/docker-ce/)
+            1. [说明](https://mirrors.cloud.tencent.com/help/docker-ce.html)
+        6. [centos](https://mirrors.cloud.tencent.com/centos/)
+            1. [说明](https://mirrors.cloud.tencent.com/help/centos.html)
+        7. [ubuntu](https://mirrors.cloud.tencent.com/ubuntu/)
+            1. [说明](https://mirrors.cloud.tencent.com/help/ubuntu.html)
+        8. [ubuntu-releases](https://mirrors.cloud.tencent.com/ubuntu-releases/)
+        9. [mysql](https://mirrors.cloud.tencent.com/mysql/)
+        10. [maven](https://mirrors.cloud.tencent.com/maven/)
+            1. [说明](https://mirrors.cloud.tencent.com/help/maven.html)
+    3. [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
+    4. [码云镜像](http://mirrors.gitee.com/)
+    5. [墨尔本-香港镜像](http://mirrors.melbourne.co.uk/)
+    6. [网易镜像 163](https://mirrors.163.com/)
+    7. [华为镜像](https://mirrors.huaweicloud.com/)
+    8. [华中科技大学镜像](http://mirror.hust.edu.cn/)
+    9. [龙蜥镜像](http://mirrors.openanolis.cn/)
+9. DNS
+    1. [阿里云公共DNS](https://www.alidns.com/)
+        1. [配置文档](https://www.alidns.com/knowledge?type=SETTING_DOCS)
+    2. [阿里巴巴 DNS 检测工具](https://help.aliyun.com/document_detail/155535.html)
+10. [百度-开发者搜索](https://kaifa.baidu.com/)
+11. SSL(https)证书免费申请
+    1. [阿里云SSL(https)证书免费申请](https://yundun.console.aliyun.com/?p=cas#/certExtend/buy)
+    2. [腾讯云SSL(https)证书免费申请](https://console.cloud.tencent.com/ssl)
+    3. [华为云SSL(https)证书免费申请](https://console.huaweicloud.com/console/#/ccm/scs/certList)
+    4. [百度云SSL(https)证书免费申请](https://console.bce.baidu.com/cas/#/cas/purchased/common/list)
+12. [Windows Docker 下载](https://docs.docker.com/desktop/install/windows-install/)
+13. [Windows gpg4win 电子邮件和文件加密 ](https://www.gpg4win.org/)
+14. [SoapUI 下载](https://www.soapui.org/downloads/thank-you-for-downloading-soapui/)
+15. [Bootstrap模板库](http://www.bootstrapmb.com)
+16. [微信公众平台接口测试帐号申请](https://mp.weixin.qq.com/debug/cgi-bin/sandbox?t=sandbox/login)
+17. [微信公众平台接口调试工具](https://mp.weixin.qq.com/debug)
+18. [Windows curl 下载](https://curl.se/windows/)
+19. [iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn/)
+20. 对象存储工具
+    1. [阿里云对象存储 OSS Browser](https://help.aliyun.com/document_detail/209974.htm)
+    2. [腾讯云对象储存，下载页面需要登录腾讯云账户 COS Browser](https://console.cloud.tencent.com/cos/cosbrowser)
+    3. [华为云对象储存，OBS Browser](https://support.huaweicloud.com/browsertg-obs/obs_03_1003.html)
+21. [s3浏览器 s3browser](https://s3browser.com/)
+22. 内网穿透
+    1. [frp](https://gofrp.org/)
+23. [墨菲安全 | 为您提供专业的软件供应链安全管理](https://www.murphysec.com/)
+24. [OSCS | 开源软件供应链安全社区](https://www.oscs1024.com/)
+25. 代码镜像
+    1. [Gitee 镜像仓库](https://gitee.com/mirrors)
+    2. [GitCode 镜像仓库](https://gitcode.net/mirrors)
+26. Markdown 编辑器
+    1. [基于 Electron 的开源、跨平台](https://github.com/marktext/marktext)
+27. [Spring项目发布日历](https://calendar.spring.io/)
+28. [OneDrive Linux 客户端](https://github.com/abraunegg/onedrive)
+29. [阿里云盘命令行客户端](https://github.com/tickstep/aliyunpan)
+30. webdav
+    1. hacdias/webdav
+        1. [github](https://github.com/hacdias/webdav)
+        2. [gitcode](https://gitcode.net/mirrors/hacdias/webdav)
+31. [网络拨测工具](https://boce.aliyun.com/detect/dns)
+32. [gitlab-runner-downloads](https://gitlab-runner-downloads.s3.amazonaws.com/latest/index.html)
+33. Spring Cloud Alibaba 参考文档
+    1. [2021](https://spring-cloud-alibaba-group.github.io/github-pages/2021/zh-cn/index.html)
+    2. [2022](https://spring-cloud-alibaba-group.github.io/github-pages/2022/zh-cn/index.html)
+34. [VMware Workstation 最新版下载](https://www.vmware.com/cn/products/workstation-pro/workstation-pro-evaluation.html)
+35. git 文档
+    1. [git 官方文档](http://git.github.io/htmldocs/)
+    2. [gitcode文档](https://gitcode.host/progit2/)
+36. gitlab 文档
+    1. [gitlab官方文档，英文，可能需要梯子](https://docs.gitlab.com/)
+    2. [极狐gitlab文档，中文](https://docs.gitlab.cn/)
+37. 搜索 Maven 依赖的网站
+    1. [https://mvnrepository.com](https://mvnrepository.com)
+    2. [https://search.maven.org](https://search.maven.org)
+    3. [https://central.sonatype.com](https://central.sonatype.com)
+38. 开发工具箱
+    1. [彩虹工具箱](https://rainbowbyte.com/)
+    2. [He3开发工具箱](https://he3.app/zh/)
+39. 小程序开发工具
+    1. [微信](https://developers.weixin.qq.com/miniprogram/dev/devtools/stable.html)
+    2. [QQ](https://q.qq.com/wiki/tools/devtool)
+    3. [支付宝](https://render.alipay.com/p/f/fd-jwq8nu2a/pages/home/index.html)
+40. [TortoiseGit](https://tortoisegit.org/download/)
+41. [TortoiseSVN](https://tortoisesvn.net/downloads.html)
+42. 截图工具
+    1. [ShareX](https://getsharex.com/)
+43. 私库
+    1. maven 私库
+        1. [阿里云新版](https://packages.aliyun.com/maven)
+        2. [阿里云旧版](https://repomanage.rdc.aliyun.com/my/repo)
+    2. npm 私库
+        1. [阿里云](https://packages.aliyun.com/npm)
+    3. docker 私库
+        1. [阿里云](https://cr.console.aliyun.com/)
+44. Java Doc 文档
+    1. [javase 6](https://docs.oracle.com/javase/6/docs/api/index.html)
+    2. [javase 7](https://docs.oracle.com/javase/7/docs/api/index.html)
+    3. [javase 8](https://docs.oracle.com/javase/8/docs/api/index.html)
+    4. [javase 9](https://docs.oracle.com/javase/9/docs/api/index.html)
+    5. [javase 10](https://docs.oracle.com/javase/10/docs/api/index.html)
+    6. [javase 11](https://docs.oracle.com/en/java/javase/11/docs/api/index.html)
+    7. [javase 12](https://docs.oracle.com/en/java/javase/12/docs/api/index.html)
+    8. [javase 13](https://docs.oracle.com/en/java/javase/13/docs/api/index.html)
+    9. [javase 14](https://docs.oracle.com/en/java/javase/14/docs/api/index.html)
+    10. [javase 15](https://docs.oracle.com/en/java/javase/15/docs/api/index.html)
+    11. [javase 16](https://docs.oracle.com/en/java/javase/16/docs/api/index.html)
+    12. [javase 17](https://docs.oracle.com/en/java/javase/17/docs/api/index.html)
+    13. [javase 18](https://docs.oracle.com/en/java/javase/18/docs/api/index.html)
+    14. [javase 19](https://docs.oracle.com/en/java/javase/19/docs/api/index.html)
+    15. [spring-framework](https://docs.spring.io/spring-framework/docs/)
+    16. [spring-security](https://docs.spring.io/spring-security/site/docs/)
+    17. [spring-boot](https://docs.spring.io/spring-boot/docs/)
+    18. [spring-cloud](https://docs.spring.io/spring-cloud/docs/)
+    19. [spring-cloud-gateway](https://docs.spring.io/spring-cloud-gateway/docs/)
+    20. [spring-cloud-build](https://docs.spring.io/spring-cloud-build/docs/)
+    21. [spring-cloud-kubernetes](https://docs.spring.io/spring-cloud-kubernetes/docs/)
+    22. [lombok](https://projectlombok.org/api/)
