@@ -202,7 +202,7 @@
     1. [Gitee 镜像仓库](https://gitee.com/mirrors)
     2. [GitCode 镜像仓库](https://gitcode.net/mirrors)
 27. Markdown 编辑器
-    1. [基于 Electron 的开源、跨平台](https://github.com/marktext/marktext)
+    1. [基于 Electron 的开源、跨平台 marktext](https://github.com/marktext/marktext)
 28. [Spring项目发布日历](https://calendar.spring.io/)
 29. [OneDrive Linux 客户端](https://github.com/abraunegg/onedrive)
 30. [阿里云盘命令行客户端](https://github.com/tickstep/aliyunpan)
