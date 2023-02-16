@@ -283,6 +283,7 @@
     3. docker 私库
         1. [阿里云](https://cr.console.aliyun.com/)
         2. [华为云](https://console.huaweicloud.com/swr/)
+        3. [腾讯云](https://console.cloud.tencent.com/tcr/)
 46. Java Doc 文档
     1. [javase 6](https://docs.oracle.com/javase/6/docs/api/index.html)
     2. [javase 7](https://docs.oracle.com/javase/7/docs/api/index.html)
