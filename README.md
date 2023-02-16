@@ -256,7 +256,7 @@
     2. [https://search.maven.org](https://search.maven.org)
     3. [https://central.sonatype.com](https://central.sonatype.com)
     4. [https://developer.aliyun.com](https://developer.aliyun.com/mvn/search)
-    5. http://mvn.coderead.cn
+    5. [http://mvn.coderead.cn](http://mvn.coderead.cn)
 40. 开发工具箱
     1. [彩虹工具箱](https://rainbowbyte.com/)
     2. [He3开发工具箱](https://he3.app/zh/)
