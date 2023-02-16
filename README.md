@@ -185,7 +185,7 @@
 11. DNS
     1. [阿里云公共DNS](https://www.alidns.com/)
         1. [配置文档](https://www.alidns.com/knowledge?type=SETTING_DOCS)
-    2. [阿里巴巴 DNS 检测工具](https://help.aliyun.com/document_detail/155535.html)
+    2. [阿里巴巴 DNS 检测工具](https://gitee.com/xuxiaowei-com-cn/link/issues/I6FFW1)
 12. [百度-开发者搜索](https://kaifa.baidu.com/)
 13. SSL(https)证书免费申请
     1. [阿里云SSL(https)证书免费申请](https://yundun.console.aliyun.com/?p=cas#/certExtend/buy)
