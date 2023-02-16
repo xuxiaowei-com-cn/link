@@ -256,6 +256,7 @@
     2. [https://search.maven.org](https://search.maven.org)
     3. [https://central.sonatype.com](https://central.sonatype.com)
     4. [https://developer.aliyun.com](https://developer.aliyun.com/mvn/search)
+    5. http://mvn.coderead.cn
 40. 开发工具箱
     1. [彩虹工具箱](https://rainbowbyte.com/)
     2. [He3开发工具箱](https://he3.app/zh/)
@@ -302,3 +303,5 @@
     1. [Java全栈知识体系](https://pdai.tech/md/resource/tools.html)
     2. [开源书籍文档](https://www.bookstack.cn/cate)
     3. [十二要素应用宣言](https://12factor.net/zh_cn/)
+    4. [Java程序员进阶之路](https://tobebetterjavaer.com/#/)
+    5. [Road To Coding](https://www.r2coding.com/#/)
