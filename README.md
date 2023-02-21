@@ -182,6 +182,7 @@
     7. [华为镜像](https://mirrors.huaweicloud.com/)
     8. [华中科技大学镜像](http://mirror.hust.edu.cn/)
     9. [龙蜥镜像](http://mirrors.openanolis.cn/)
+    10. [乌班图 Ubuntu 历史版本与版本名称](https://releases.ubuntu.com/)
 11. DNS
     1. [阿里云公共DNS](https://www.alidns.com/)
         1. [配置文档](https://www.alidns.com/knowledge?type=SETTING_DOCS)
