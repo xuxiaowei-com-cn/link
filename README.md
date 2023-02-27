@@ -308,7 +308,8 @@
     20. [spring-cloud-build](https://docs.spring.io/spring-cloud-build/docs/)
     21. [spring-cloud-kubernetes](https://docs.spring.io/spring-cloud-kubernetes/docs/)
     22. [lombok](https://projectlombok.org/api/)
-47. 技术文档
+47. [Windows 大文本编辑器](https://zh-cn.emeditor.com/)
+48. 技术文档
     1. [Java全栈知识体系](https://pdai.tech/md/resource/tools.html)
     2. [开源书籍文档](https://www.bookstack.cn/cate)
     3. [十二要素应用宣言](https://12factor.net/zh_cn/)
