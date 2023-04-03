@@ -316,3 +316,4 @@
     3. [十二要素应用宣言](https://12factor.net/zh_cn/)
     4. [Java程序员进阶之路](https://tobebetterjavaer.com/#/)
     5. [Road To Coding](https://www.r2coding.com/#/)
+    6. [如何维护更新日志](https://keepachangelog.com/zh-CN/)
