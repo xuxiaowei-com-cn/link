@@ -307,7 +307,8 @@
     19. [spring-cloud-gateway](https://docs.spring.io/spring-cloud-gateway/docs/)
     20. [spring-cloud-build](https://docs.spring.io/spring-cloud-build/docs/)
     21. [spring-cloud-kubernetes](https://docs.spring.io/spring-cloud-kubernetes/docs/)
-    22. [lombok](https://projectlombok.org/api/)
+    22. [spring-authorization-server](https://docs.spring.io/spring-authorization-server/docs/)
+    23. [lombok](https://projectlombok.org/api/)
 47. [Windows 大文本编辑器](https://zh-cn.emeditor.com/)
 48. 技术文档
     1. [Java全栈知识体系](https://pdai.tech/md/resource/tools.html)
