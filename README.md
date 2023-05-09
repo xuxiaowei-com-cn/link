@@ -285,7 +285,8 @@
         1. [阿里云](https://cr.console.aliyun.com/)
         2. [华为云](https://console.huaweicloud.com/swr/)
         3. [腾讯云](https://console.cloud.tencent.com/tcr/)
-46. Java Doc 文档
+46. [Central Maven javadoc](https://javadoc.io)
+47. Java Docs 文档
     1. [javase 6](https://docs.oracle.com/javase/6/docs/api/index.html)
     2. [javase 7](https://docs.oracle.com/javase/7/docs/api/index.html)
     3. [javase 8](https://docs.oracle.com/javase/8/docs/api/index.html)
@@ -309,8 +310,8 @@
     21. [spring-cloud-kubernetes](https://docs.spring.io/spring-cloud-kubernetes/docs/)
     22. [spring-authorization-server](https://docs.spring.io/spring-authorization-server/docs/)
     23. [lombok](https://projectlombok.org/api/)
-47. [Windows 大文本编辑器](https://zh-cn.emeditor.com/)
-48. 技术文档
+48. [Windows 大文本编辑器](https://zh-cn.emeditor.com/)
+49. 技术文档
     1. [Java全栈知识体系](https://pdai.tech/md/resource/tools.html)
     2. [开源书籍文档](https://www.bookstack.cn/cate)
     3. [十二要素应用宣言](https://12factor.net/zh_cn/)
