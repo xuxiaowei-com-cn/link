@@ -184,6 +184,7 @@
     9. [龙蜥镜像](http://mirrors.openanolis.cn/)
     10. [乌班图 Ubuntu 历史版本与版本名称](https://releases.ubuntu.com/)
     11. [极狐GitLab 源](https://packages.gitlab.cn)
+    12. [南京大学开源镜像站](https://mirrors.nju.edu.cn)
 11. DNS
     1. [阿里云公共DNS](https://www.alidns.com/)
         1. [配置文档](https://www.alidns.com/knowledge?type=SETTING_DOCS)
@@ -319,7 +320,7 @@
     4. [Java程序员进阶之路](https://tobebetterjavaer.com/#/)
     5. [Road To Coding](https://www.r2coding.com/#/)
     6. [如何维护更新日志](https://keepachangelog.com/zh-CN/)
-49. 资源导航
+50. 资源导航
     1. [AIGC工具导航 | 发现全球优质AIGC工具](https://aigc.cn/)
     2. [AI工具集导航](https://ai-bot.cn/)
     3. [程序员导航](https://cxy521.com/)
